@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'hello-iphone-window-dec-29-2010' target in the 'hello-iphone-window-dec-29-2010' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
